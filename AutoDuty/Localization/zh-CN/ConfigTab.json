@@ -278,7 +278,8 @@
         "Kill_PC": "关闭电脑",
         "Start_AR_Night_Mode": "启动 AutoRetainer 夜间模式"
       },
-      "Jobs": {
+      "JobWithRole": {
+        "None": "None",
         "All": "所有职业 (All)",
         "Tanks": "防护职业 (T)",
         "Healers": "治疗职业 (H)",
